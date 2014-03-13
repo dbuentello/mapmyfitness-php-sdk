@@ -17,7 +17,7 @@ Visit www.mapmyapi.com
 - Routes
 
 
-Hitory
+History
 --------------------
 
 Developed as a student project by our friends (Yulong, Brad and Alex) - Thanks!
