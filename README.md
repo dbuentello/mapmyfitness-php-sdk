@@ -6,7 +6,7 @@ Community Supported MapMyFitness PHP SDK
 Overview
 --------------------
 
-This is a basic php sdk for MapMyFitness, it currently uses oauth 1 and has the follow supported api calls.
+This is a basic php sdk for MapMyFitness, it currently uses oauth 1 and has the following supported api calls.
 
 Visit www.mapmyapi.com
 
